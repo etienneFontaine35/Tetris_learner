@@ -25,22 +25,22 @@ RESOURCES :
 #define TETRIS_AI_H
 
 
-struct State
-{
-    int 
-}
+// struct State
+// {
+//     int 
+// }
 
 
-class Memory
-{
+// class Memory
+// {
 
-}
+// }
 
 
-class NeuralNetwork
-{
+// class NeuralNetwork
+// {
 
-}
+// }
 
 
 #endif
